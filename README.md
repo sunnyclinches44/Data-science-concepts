@@ -1,3 +1,3 @@
 # Data-science-concepts
 
-## Probability
+1. Probability
