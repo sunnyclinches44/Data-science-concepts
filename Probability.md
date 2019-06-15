@@ -31,5 +31,5 @@ In probability theory, the experimental probability is the ratio of number of ti
 
 In probability theory, expected value is the average gain or loss of an event if the procedure repeated many times. We can compute the expected value by multiplying each outcome by the probability of that outcome, then adding up the products. 
 
-[Perfect scenario examples explanation refer to the video](https://www.youtube.com/watch?v=q-FAmfkOkYU)
+[Perfect scenario example explanation refer to the video](https://www.youtube.com/watch?v=q-FAmfkOkYU)
 
